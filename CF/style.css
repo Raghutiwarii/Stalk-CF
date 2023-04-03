@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(to right, rgb(108, 121, 195),  rgb(44, 214, 177));
+    color: #201e1e;
+    font-family: 'Courier New', Courier, monospace !important;
+    font-weight: bold;
+    font-size: 100%;
+}
+
+.grid , .footer,.logo,.page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    background-color: #83b5ad;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer{
+    font-family:'Times New Roman', Times, serif;
+}
+
+.logo{
+    padding: 15px;
+    font-weight: bold;
+}
